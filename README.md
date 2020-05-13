@@ -71,7 +71,7 @@
 
 Retorna todos os dados dos animais e de seus donos.
 
-A listagem está limitada a quatro animais por página.
+A listagem está limitada a dois animais por página.
 
 - Request
 
